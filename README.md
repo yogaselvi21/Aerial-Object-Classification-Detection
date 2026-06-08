@@ -23,7 +23,7 @@ Mini_Project_5_Object_Classification_Pytorch.ipynb: Implements custom CNN design
 
 Mini_Project_5_Object_Classification_TensorFlow.ipynb: Implements custom CNN design and transfer learning workflows for binary classification using TensorFlow.
 
-Mini_Project_5_Object_Detection.ipynb: Implements and evaluates a real-time YOLOv8 model to locate and label objects.
+Mini_Project_5_Object_Detection.ipynb: Implements and evaluates a real-time YOLOv26 model to locate and label objects.
 
 
 📈 Results
