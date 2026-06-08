@@ -12,7 +12,7 @@ Custom CNN: Lightweight convolutional neural network built from scratch for bina
 
 Transfer Learning: Advanced feature extraction utilizing pre-trained state-of-the-art models.
 
-Object Detection: Real-time localization and labeling powered by YOLOv8.
+Object Detection: Real-time localization and labeling powered by YOLOv26.
 
 Interactive Web App: User-friendly Streamlit interface for instant image uploads and model predictions.
 
